@@ -2,6 +2,7 @@ The collected Data can be found in the Data folder. This data is both for the An
 
 In the Exercises folder, you can find the exercise done in class and repeated with our own data.
 The Flextopo Exercise can be found in the Flextopo folder.
+The HBV Exercises done on the server can be found in the HBV folder. Each notebook displays the results of said notebook. Do not run said notebooks, as the necessary data has not been fully included on the Github.
 
 In the Lake Inflow Notebook, the analysis used to answer our research question: Does EL Ninõ have an effect on the water availability in Sydney?
 
